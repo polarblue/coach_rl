@@ -1,4 +1,4 @@
-# coach_rl a thought experiment
+# coach_rl a thought experiment implemented
 * modifying the target of a model based on a pretrained policy 
 
 ## walkthrough
